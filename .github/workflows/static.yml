@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chocoland</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Enlaza a un archivo CSS si lo tienes -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+            text-align: center;
+        }
+        header {
+            background-color: #4caf50;
+            color: white;
+            padding: 10px 0;
+        }
+        main {
+            padding: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a Chocoland</h1>
+    </header>
+    <main>
+        <img src="A_Minecraft-inspired_RPG_scene_with_magical_elemen.png" alt="Chocoland RPG" /> <!-- Cambia el nombre de la imagen si es diferente -->
+        <h2>¿Qué es Chocoland?</h2>
+        <p>
+            Chocoland es un servidor de Minecraft RPG donde puedes elegir entre varios <strong>ORÍGENES</strong> o razas. Cada una tendrá su debilidad y su ventaja.
+        </p>
+        <p>
+            Tendrás un sistema de niveles que podrás mejorar matando mobs, los cuales también tienen niveles. Cuanto más alto sea el nivel del mob, más difícil será de matar.
+        </p>
+        <p>
+            Puedes elegir ser <strong>mago</strong>, <strong>guardián</strong>, <strong>agricultor</strong> y hay un sinfín de posibilidades en este maravilloso mundo.
+        </p>
+    </main>
+    <footer>
+        <p>&copy; 2024 Chocoland. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
+
